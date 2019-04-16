@@ -1,0 +1,14 @@
+{
+  "label.cancel": "Cancel",
+  "label.accept": "Accept",
+  "label.rowsPerPage": "Rows per page",
+  "label.editUser": "Edit User",
+  "label.createUser": "Create User",
+  "label.updatedRow": "The record was updated successfully!",
+  "label.firstName": "First Name",
+  "label.lastName": "Last Name",
+  "header.title": "Your social network!",
+  "header.exitMessage": "Do you want to exit the app?",
+  "user.avatar": "Avatar",
+  "user.fullName": "Full name"
+}

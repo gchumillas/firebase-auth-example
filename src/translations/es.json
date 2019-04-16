@@ -1,0 +1,14 @@
+{
+  "label.cancel": "Cancelar",
+  "label.accept": "Aceptar",
+  "label.rowsPerPage": "Reg. por página",
+  "label.editUser": "Editar Usuario",
+  "label.createUser": "Crear Usuario",
+  "label.updatedRow": "El registro se actualizó con éxito!",
+  "label.firstName": "Nombre",
+  "label.lastName": "Apellidos",
+  "header.title": "Tu red social!",
+  "header.exitMessage": "¿Desea salir de la aplicación?",
+  "user.avatar": "Avatar",
+  "user.fullName": "Nombre completo"
+}
