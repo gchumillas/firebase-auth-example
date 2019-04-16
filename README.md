@@ -1,5 +1,5 @@
 La aplicación está disponible en la siguiente dirección:  
-https://clouddistrictexercise.firebaseapp.com/
+https://authexample-b84c8.firebaseapp.com/
 
 Aunque la interfaz se adapta a cualquier pantalla, originalmente ha sido diseñada para dispositivos móviles, por lo que recomiendo usar el modo de simulación móvil de Chrome ( [Ctrl + Shift + I] y activar la opción "Toggle view toolbar" )
 
