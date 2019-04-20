@@ -2,7 +2,7 @@
 
 This application illustrates how to authenticate using various service providers, such as Google, Facebook or Twitter.
 
-The application is available in the following address:  
+The application is available at the following address:  
 https://authexample-b84c8.firebaseapp.com/
 
 
