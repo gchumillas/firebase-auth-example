@@ -32,9 +32,9 @@ src
 ## Librerías más relevantes
 
   1. [@material-ui](https://material-ui.com/getting-started/installation/): A list of visual components.
-  2. [firebase](https://react-firebase-js.com/docs/react-firebase-auth/api): [firebase](https://firebase.google.com/) API.
-  3. [@react-firebase/auth](https://react-firebase-js.com/docs/react-firebase-auth/getting-started): Authentication system.
-  4. [react-firebaseui](https://github.com/firebase/firebaseui-web-react): Federated authentication system.
+  2. [firebase](https://react-firebase-js.com/docs/react-firebase-auth/api): A [Firebase](https://firebase.google.com/) API.
+  3. [@react-firebase/auth](https://react-firebase-js.com/docs/react-firebase-auth/getting-started): An authentication library.
+  4. [react-firebaseui](https://github.com/firebase/firebaseui-web-react): A federated authentication library.
   5. [axios](https://github.com/axios/axios): An HTTP client.
   6. [react-intl](https://github.com/yahoo/react-intl): Internationalization library.
   7. [react-router-dom](https://reacttraining.com/react-router/web/guides/quick-start): Router (Single Page Application).
