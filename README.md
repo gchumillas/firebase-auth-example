@@ -8,14 +8,14 @@ https://authexample-b84c8.firebaseapp.com/
 
 ## Application structure
 
-All the machinery related to Redux + Saga is located under `src/redux` and its operation is quite simple:
+All the machinery related to Redux + Saga is under `src/redux` and its operation is quite simple:
 
   1. execute an action: `dispatch(myAction)` (src/redux/actions.js)
-  2. which is eventually captured by a "saga" (src/redux/sagas.js)
+  2. which is optionally captured by a "saga" (src/redux/sagas.js)
   3. which in turn calls a "provider" (src/redux/provider.js)
   4. whose response is processed by a "reducer" (src/redux/reducer.js)
   
-And finally each component is updated attending to the "state tree".
+And finally each component is updated according to the "state tree".
 
 ```text
 src
