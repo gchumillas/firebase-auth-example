@@ -29,7 +29,7 @@ src
   config-sample.js --> Template config file (copy to config.js)
 ```
 
-## Librerías más relevantes
+## Most relevant libraries
 
   1. [@material-ui](https://material-ui.com/getting-started/installation/): A list of visual components.
   2. [firebase](https://react-firebase-js.com/docs/react-firebase-auth/api): A [Firebase](https://firebase.google.com/) API.
