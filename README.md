@@ -49,9 +49,4 @@ export const language = "en";
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/5312427/54597826-8d8d1180-4a37-11e9-9ba7-fca66f2ffa12.png" width="300" />
-<img src="https://user-images.githubusercontent.com/5312427/54597821-8cf47b00-4a37-11e9-95ab-c3776abc1500.png" width="300" />
-<img src="https://user-images.githubusercontent.com/5312427/54597822-8cf47b00-4a37-11e9-9041-886ff696443a.png" width="300" />
-<img src="https://user-images.githubusercontent.com/5312427/54597827-8e25a800-4a37-11e9-9eec-6ac032066efa.png" width="300" />
-<img src="https://user-images.githubusercontent.com/5312427/54597824-8cf47b00-4a37-11e9-8c66-f0f5a9f5dc6b.png" width="300" />
-<img src="https://user-images.githubusercontent.com/5312427/54597825-8d8d1180-4a37-11e9-9c16-4e79254f655d.png" width="300" />
+<img src="https://user-images.githubusercontent.com/5312427/54597826-8d8d1180-4a37-11e9-9ba7-fca66f2ffa12.png" width="300" /><img src="https://user-images.githubusercontent.com/5312427/54597821-8cf47b00-4a37-11e9-95ab-c3776abc1500.png" width="300" /><img src="https://user-images.githubusercontent.com/5312427/54597822-8cf47b00-4a37-11e9-9041-886ff696443a.png" width="300" /><img src="https://user-images.githubusercontent.com/5312427/54597827-8e25a800-4a37-11e9-9eec-6ac032066efa.png" width="300" /><img src="https://user-images.githubusercontent.com/5312427/54597824-8cf47b00-4a37-11e9-8c66-f0f5a9f5dc6b.png" width="300" /><img src="https://user-images.githubusercontent.com/5312427/54597825-8d8d1180-4a37-11e9-9c16-4e79254f655d.png" width="300" />
